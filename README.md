@@ -1,3 +1,3 @@
 # JavaScript-calculator-no-frontend-
 
-Wanna create a basic calculator without frontend.
+I created a basic calculator able to add, subtract, multiply, divide and module without frontend.
